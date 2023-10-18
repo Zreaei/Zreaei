@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Wassup
 i'm currently learning Python
 
 
