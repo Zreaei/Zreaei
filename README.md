@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rafi Zamzami</h1>
+<h1 align="center">Sup! 👋, I'm Muhammad Rafi Zamzami</h1>
 <h3 align="center">Just an amateur programmer with some common hobbies</h3>
 
 <h3 align="center">Connect with me:</h3>
