@@ -1,10 +1,10 @@
 <h1 align="center">Sup! 👋, I'm Muhammad Rafi Zamzami</h1>
-<h3 align="center">Just an amateur programmer with some common hobbies</h3>
+<h3 align="center">Just an amateur programmer and gaming addict</h3>
 <h3 align="center">Currently learning : React, Next</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/raf.zz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raf.zz_" height="30" width="40" /></a>
+<a href="https://instagram.com/raf.zz_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raf.zz_" height="30" width="40" /></a>
 </p>
 
 ## 💻 Used Technologies:
