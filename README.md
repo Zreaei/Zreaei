@@ -1,5 +1,5 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zreaei&label=Views&color=000000&style=flat" alt="zreaei" /></p>
-<h1 align="center">Sup! 👋, I'm Muhammad Rafi Zamzami</h1>
+<h1 align="center">Hello! 👋, I'm Muhammad Rafi Zamzami (aka. Zam)</h1>
 <h3 align="center">Just an amateur programmer and gaming addict</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
